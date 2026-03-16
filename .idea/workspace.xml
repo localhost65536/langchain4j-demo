@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8be725fa-cafd-469e-8603-2603f6c02046" name="Changes" comment="init" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/apache-maven-3.8.8" />
+        <option name="localRepository" value="$USER_HOME$/mvnRepo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.8.8/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3AyfuVo0PRzQwH6NMBXlDFJkCf3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChatApiController.executor": "Run",
+    "Application.Test01.executor": "Run",
+    "Maven.langchain4j-demo [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ChatApiApp.executor": "Run",
+    "Spring Boot.ChatApiConfigApp.executor": "Run",
+    "Spring Boot.ChatApiImgApp.executor": "Run",
+    "Spring Boot.ChatEmbeddingApp.executor": "Run",
+    "Spring Boot.ChatFunctionCallingApp.executor": "Run",
+    "Spring Boot.ChatMemoryApp.executor": "Run",
+    "Spring Boot.ChatPromptApp.executor": "Run",
+    "Spring Boot.ChatStreamApp.executor": "Run",
+    "Spring Boot.HelloApp (1).executor": "Run",
+    "Spring Boot.HelloWorld.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/king/workspace/java/langchain4j-demo/langchain4j-11chat-rag01/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/langchain4j-11chat-rag01/src/main/resources" />
+      <recent name="$PROJECT_DIR$/langchain4j-10chat-embedding/src/main/resources" />
+      <recent name="$PROJECT_DIR$/langchain4j-09chat-graalVM/src/main/resources" />
+      <recent name="$PROJECT_DIR$/langchain4j-08chat-functioncalling/src/main/resources" />
+      <recent name="$PROJECT_DIR$/langchain4j-07chat-prompt/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.king.config" />
+      <recent name="cn.king.controller" />
+      <recent name="cn.king" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ChatEmbeddingApp">
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.king.Test01" />
+      <module name="langchain4j-09chat-graalVM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.king.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatApiApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-02chatapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatApiApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatApiConfigApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-03chatapi-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatApiConfigApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatApiImgApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-04chatapi-image" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatApiImgApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatEmbeddingApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-10chat-embedding" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatEmbeddingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.king.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatFunctionCallingApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-08chat-functioncalling" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatFunctionCallingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.king.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatGraalVMApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-09chat-graalVM" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatGraalVMApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatMemoryApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-06chat-memory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatMemoryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.king.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatPromptApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-07chat-prompt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatPromptApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.king.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatRag01App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-11chat-rag01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatRag01App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatStreamApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-05chat-stream" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.ChatStreamApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-01helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.king.HelloApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ChatEmbeddingApp" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Spring Boot.ChatFunctionCallingApp" />
+        <item itemvalue="Spring Boot.ChatPromptApp" />
+        <item itemvalue="Spring Boot.ChatMemoryApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be725fa-cafd-469e-8603-2603f6c02046" name="Changes" comment="" />
+      <created>1735126056908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735126056908</updated>
+      <workItem from="1742981958157" duration="220000" />
+      <workItem from="1764505145404" duration="37000" />
+      <workItem from="1773569956529" duration="12052000" />
+      <workItem from="1773585958406" duration="33498000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1773677484661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773677484661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
