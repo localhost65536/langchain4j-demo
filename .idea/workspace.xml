@@ -68,7 +68,7 @@
     "Spring Boot.ChatStreamApp.executor": "Run",
     "Spring Boot.HelloApp (1).executor": "Run",
     "Spring Boot.HelloWorld.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/king/workspace/java/langchain4j-demo/langchain4j-11chat-rag01/src/main/resources",
     "node.js.detected.package.eslint": "true",
@@ -244,7 +244,9 @@
       <workItem from="1742981958157" duration="220000" />
       <workItem from="1764505145404" duration="37000" />
       <workItem from="1773569956529" duration="12052000" />
-      <workItem from="1773585958406" duration="33498000" />
+      <workItem from="1773585958406" duration="33895000" />
+      <workItem from="1773677953243" duration="12000" />
+      <workItem from="1773677971183" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -272,9 +274,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
